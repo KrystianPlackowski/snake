@@ -1,0 +1,1 @@
+Controls with arrows: up, down, left, right.
